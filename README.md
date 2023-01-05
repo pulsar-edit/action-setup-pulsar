@@ -1,3 +1,5 @@
+# This Repo is Archived under Pulsar Edit due to following the old build/install method of Atom which is no longer applicable to Pulsar. The Pulsar Equivolant of this action is available [here](https://github.com/pulsar-edit/action-pulsar-dependency).
+
 [![GitHub Actions Status](https://github.com/UziTech/action-setup-atom/workflows/Tests/badge.svg?branch=master)](https://github.com/UziTech/action-setup-atom/actions)
 [![Travis-CI Status](https://travis-ci.com/UziTech/action-setup-atom.svg?branch=master)](https://travis-ci.com/UziTech/action-setup-atom)
 [![AppVeyor Status](https://ci.appveyor.com/api/projects/status/b1jl4lp0ud99byfc/branch/master?svg=true)](https://ci.appveyor.com/project/UziTech/action-setup-atom/branch/master)
